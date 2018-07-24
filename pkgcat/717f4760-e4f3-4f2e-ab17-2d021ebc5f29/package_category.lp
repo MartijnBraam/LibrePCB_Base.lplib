@@ -1,0 +1,10 @@
+(librepcb_package_category 717f4760-e4f3-4f2e-ab17-2d021ebc5f29
+ (name "SOT")
+ (description "")
+ (keywords "sot")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2018-07-24T12:47:38Z)
+ (deprecated false)
+ (parent null)
+)
